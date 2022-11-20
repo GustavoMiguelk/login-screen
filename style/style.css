@@ -14,7 +14,7 @@
 }
 
 body {
-    background-image: url(imagens/multicolored-planet-fluid-painting-removebg-preview.png);
+    background-image: url(../imagens/multicolored-planet-fluid-painting-removebg-preview.png);
     background-repeat: no-repeat;
     background-size: 47vh;
     background-color: var(--color1);
